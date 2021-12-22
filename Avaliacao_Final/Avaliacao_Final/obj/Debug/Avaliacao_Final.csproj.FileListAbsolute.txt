@@ -1,0 +1,7 @@
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Avaliacao_Final\Avaliacao_Final\bin\Debug\Avaliacao_Final.exe.config
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Avaliacao_Final\Avaliacao_Final\bin\Debug\Avaliacao_Final.exe
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Avaliacao_Final\Avaliacao_Final\bin\Debug\Avaliacao_Final.pdb
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Avaliacao_Final\Avaliacao_Final\obj\Debug\Avaliacao_Final.csproj.AssemblyReference.cache
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Avaliacao_Final\Avaliacao_Final\obj\Debug\Avaliacao_Final.csproj.CoreCompileInputs.cache
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Avaliacao_Final\Avaliacao_Final\obj\Debug\Avaliacao_Final.exe
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Avaliacao_Final\Avaliacao_Final\obj\Debug\Avaliacao_Final.pdb

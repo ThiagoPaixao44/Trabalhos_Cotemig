@@ -1,0 +1,7 @@
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Atividade_3\Atividade_3\bin\Debug\Atividade_3.exe.config
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Atividade_3\Atividade_3\bin\Debug\Atividade_3.exe
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Atividade_3\Atividade_3\bin\Debug\Atividade_3.pdb
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Atividade_3\Atividade_3\obj\Debug\Atividade_3.csproj.AssemblyReference.cache
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Atividade_3\Atividade_3\obj\Debug\Atividade_3.csproj.CoreCompileInputs.cache
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Atividade_3\Atividade_3\obj\Debug\Atividade_3.exe
+C:\Users\tico1\OneDrive\Área de Trabalho\Trabalhos COTEMIG\Trabalhos C#\Atividade_3\Atividade_3\obj\Debug\Atividade_3.pdb
